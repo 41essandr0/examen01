@@ -1,0 +1,42 @@
+.tablero {
+    margin-left: 300px;
+    margin-top: -230px;
+}
+
+button {
+    margin-left: 10px;
+    border: 5px inset;
+    width: 100px;
+    text-align: center;
+}
+input {
+    margin-top: 3px;
+    padding: 0px;
+    border: 3px solid black;
+}
+.pieza {
+    width: 30px;
+}
+tr {
+    border: 0px;
+    background-color: red;
+}
+th {
+    width: 70px;
+    height: 70px;
+}
+.b {
+    background-color: peru;
+}
+.w {
+    background-color: wheat;
+}
+.prograweb {
+    margin-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: red;
+    color: aliceblue;
+}
